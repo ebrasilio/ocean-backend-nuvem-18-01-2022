@@ -16,8 +16,6 @@ const url = `mongodb+srv://${dbUser}:${dbPassword}@${dbHost}`;
 // const url = "mongodb+srv://admin:hd2rV5duoPrrIi3t@cluster0.jup2c.mongodb.net/";
 //const url = "mongodb+srv://admin:admin@cluster0.5clbt.mongodb.net";
 
-const dbName = "ocean_bancodados_18_01_2022";
-
 async function main() {
     // Conexão com o Banco de Dados
 
